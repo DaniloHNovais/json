@@ -1,13 +1,15 @@
-{
-           "key":"VV",
-           "latitude": - 20.37234808949651,
-           "longitude": -40.32405205669856,
-           "name": "VILA VELHA - ES"
-},
-{
-           "key": "CN"
-           "latitude": -22.90606656617575,
-           "Longitude": -43.198719423737984,
-           "name": "CIDADE NOVA - RJ"
-}
-]
+
+[
+  {
+        "key": "VV",
+        "latitude": -20.37234808949651,
+        "longitude": -40.32405205669856,
+        "name": "UNIDADE 04 - VILA VELHA"
+  },
+  {
+        "key": "MO",
+        "latitude": -18.162901491166753,
+        "longitude": -40.40570370345577,
+        "name": "MATRIZ - MONTANHA"
+  },
+
