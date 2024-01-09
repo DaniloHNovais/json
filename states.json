@@ -3,13 +3,29 @@
         "key": "VVE",
         "latitude": -20.37234,
         "longitude": -40.3240,
-        "name": "UNIDADE 04 - VILA VELHA"
+        "name": "UNIDADE 03 - VILA VELHA"
   },
   {
         "key": "MON",
         "latitude": -18.162901491166753,
         "longitude": -40.40570370345577,
         "name": "MATRIZ - MONTANHA"
-  }
+  },
+  {
+        "key": "MUS",
+        "latitude":  -10.42171333594631,
+        "longitude": -36.92318207940058,
+        "name": "UNIDADE 07 - MURIBECA"
+  },
+{
+        "key": "FSA",
+        "latitude":  -12.221926323987905,
+        "longitude": -38.96659273749818,
+        "name": "UNIDADE 04 - FEIRA DE SANTANA"
+  },
+{
+        "key": "TOM",
+        "latitude":  -12.221926323987905,
+        "longitude": -38.96659273749818,
+        "name": "UNIDADE 02 - TEOFILO OTONI"  
 ]
-
